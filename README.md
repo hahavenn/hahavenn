@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**hahavenn/hahavenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm 21 years old frontent(mostly)|backend JS developer.  
+First job got at June 2023.  
+Always ready to study new (if i like it lol).  
+Using Fedora Linux & VS Code.
 
-Here are some ideas to get you started:
+## Skills
+I'm worked|familiar with such technologies & instruments as:
+- HTML
+  + Basics
+  + Semantic
+  + a11y
+  + SVG
+- CSS
+  + Basics
+  + Adaptive layouts
+  + SASS & SCSS
+- JS
+  + Basics & Depths
+  + Web APIs
+- TS
+  + Basics (mostly using like for typing JS, but not all features of this like decorators and etc)
+  + Utility Types
+- Vue ecosystem(preferred over React)
+  + Vue3 Composition API(preferred) & Options API
+  + Vue & TS
+  + Vue-router
+  + Pinia (preferred) & Vuex
+  + Component libraries (VueUse, Vuetify, Element-Plus)
+  + Nuxt.js 
+  + VueUse
+- React ecosystem
+  + React18
+  + Next.js 14
+- Node.js
+  + Basics&Depths
+  + Fastify (preferred)
+  + Express
+  + Nest
+- Databases
+  + MongoDB
+  + SQLite3
+- Testing
+  + Vitest
+  + Vue test utils
+- Other
+  + Vite
+  + Axios
+  + Socket.io
+  + MobX
+  + Figma
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
