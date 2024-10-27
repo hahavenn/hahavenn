@@ -28,7 +28,7 @@ I'm worked|familiar with such technologies & instruments as:
   + Vue & TS
   + Vue-router
   + Pinia (preferred) & Vuex
-  + Component libraries (VueUse, Vuetify, Element-Plus)
+  + Component libraries (PrimeVue, Vuetify, Element-Plus)
   + Nuxt.js 
   + VueUse
 - React ecosystem
