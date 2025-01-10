@@ -1,7 +1,7 @@
 # Hello! 
 
 ## About me
-I'm 21 years old frontent(mostly)|backend JS developer.  
+I'm 22 years old frontend(mostly)|backend JS developer.  
 First job got at June 2023.  
 Always ready to study new (if i like it lol).  
 Using Fedora Linux & VS Code.
@@ -34,8 +34,8 @@ I'm worked|familiar with such technologies & instruments as:
 - React ecosystem
   + React18
   + Next.js 14
-- Node.js
-  + Basics&Depths
+- Backend
+  + Node.js(Basics&Depths)
   + Fastify (preferred)
   + Express
   + Nest
