@@ -30,3 +30,4 @@ I remind only relative experience, that i using on my main job or in [my project
 - zod
 - pino
 - uuid
+- bcrypt
