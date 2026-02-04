@@ -11,6 +11,7 @@ My name is Vladislav.
 I remind only relative experience, that i using on my main job or in [my project](https://github.com/hahavenn/better). I also familiar with React ecosystem, but doesn't like it
 
 - HTML
+- A11y
 - CSS
 - Tailwind
 - JS/TS
@@ -33,3 +34,7 @@ I remind only relative experience, that i using on my main job or in [my project
 - Vitest
 - Playwright
 - Vue test utils
+- Nuxt auth utils
+- ofetch
+- Vite
+- Prettier
