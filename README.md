@@ -13,8 +13,7 @@ I remind only relative experience, that i using on my main job or in [my project
 - HTML
 - CSS
 - Tailwind
-- JS
-- TS
+- JS/TS
 - Vue 3 Composition&Option API (Compositon is preferred)
 - VueUse
 - Pinia
@@ -31,3 +30,6 @@ I remind only relative experience, that i using on my main job or in [my project
 - pino
 - uuid
 - bcrypt
+- Vitest
+- Playwright
+- Vue test utils
